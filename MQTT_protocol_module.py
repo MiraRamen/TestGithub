@@ -1,6 +1,6 @@
 import paho.mqtt.client as mqtt
 
-#======= Protocol GAYAGYAGYAGAGYGY Configuration ======#
+#======= Protocol KIRA DESU Configuration ======#
 host = 'test.mosquitto.org' # Define the URL  or IP toware the MQTT Broker
 port = 1883                 # Define the specific port toward the MQTT Broker
 group = 'Calculus2'

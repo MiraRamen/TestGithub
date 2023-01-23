@@ -1,7 +1,7 @@
 import paho.mqtt.client as mqtt
 import paho.mqtt.subscribe as subscribe
 
-#======= Protocol GYGAYG Configuration ======#
+#======= Protocol WATASHI NO NAMAE HA KIRA YOSHIKAGE Configuration ======#
 host = 'test.mosquitto.org' # Define the URL  or IP toware the MQTT Broker
 port = 1883                 # Define the specific port toward the MQTT Broker
 group = 'Calculus2'
